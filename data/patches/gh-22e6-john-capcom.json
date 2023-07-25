@@ -1,0 +1,55 @@
+{
+	"id": -1,
+	"name": "John Capcom",
+	"description": "Dedicated to the legendary John Capcom, renowned member of the brony faction.",
+	"links": {
+		"subreddit": [
+			"johncapcom"
+		],
+		"discord": [
+			"adQYFgeVC9"
+		]
+	},
+	"path": {
+		"": [
+			[
+				-1261,
+				2
+			],
+			[
+				-1261,
+				2
+			],
+			[
+				-1208,
+				2
+			],
+			[
+				-1208,
+				30
+			],
+			[
+				-1261,
+				30
+			],
+			[
+				-1261,
+				30
+			],
+			[
+				-1261,
+				30
+			],
+			[
+				-1261,
+				30
+			]
+		]
+	},
+	"center": {
+		"": [
+			-1234,
+			16
+		]
+	}
+}
